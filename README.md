@@ -1,1 +1,5 @@
 1.1 Feladat szöveges leírása: Cégünk megbízást kapott a Siófok Városának Önkormányzatától az önkormányzati hivatal belső kommunikációs rendszerének kiépítésére. Elvárják, hogy legyen lehetőség a belső hálózaton e-maileket küldeni, chatelni. Naptár és egy feladatkezelő alkalmazásra is szükségük lesz, ezeknél elvárt, hogy egyes felhasználók meg tudják tekinteni azokat a naptárakat is (egyes esetekben akár módosítani), amelyek más önkormányzati alkalmazottakhoz tartoznak és engedélyezve van számukra a megtekintésük. A rendszer kiépítéséhez szükséges alkalmazások kiválasztásában szabad kezet kaptunk. Mivel a keret, amelyet a megbízásra kaptunk szűkös, ezért ahol lehet ingyenes programokat használunk. A szerver könnyű felügyelhetőségéről és az adatok mentéséről is nekünk kell gondoskodnunk. A szerver automatikusan menti az adatokat egy másik meghajtóra előre megadott időpontokban. A szerver felügyelhetőségét az önkormányzat rendszergazdájának távolról is tudnia kell monitorozni
+
+
+## License
+This project uses the MIT License. See [LICENSE](LICENSE) for details.
